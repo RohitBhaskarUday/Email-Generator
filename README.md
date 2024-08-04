@@ -9,5 +9,5 @@ It should also contain getter methods according to the scenario and plan it acco
 You should get an outline by know if not, you can go through the code and get an idea for yourselves.
 You can enhance this even in a much better way connecting it towards a DB, providing user-input and much more.
 
-###Takeaway
+### Takeaway
 Generally its not a good practice to use constructors for user inputs instead you have to use methods which give you more flexibility inside the class.
